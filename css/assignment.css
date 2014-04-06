@@ -25,3 +25,7 @@ h4 {
 a {
     color: #222222;
 }
+
+.thumbnail {
+    min-height: 25%;
+}
